@@ -1,0 +1,17 @@
+{
+    "name": "nikhiljangid-dotsquares/contactpackage",
+    "description": "A custom Composer package to handle user inquiries via a contact form. Submitted requests are listed in the admin panel, where admins can view, manage, and resolve each inquiry.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Contact\\Contactpackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nikhil Jangid"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
